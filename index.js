@@ -21,8 +21,10 @@ $("button").click(function(){
         clicked+= value
         $(".display").html(`<h1>${clicked}</h1>`)
 
+
         
     }
+
     
 })
 
