@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 100%;
+    height: 100vh;
+    background: darkgray;
+
+}
+
+
+.display{
+    height: 95%;
+    width: 100%;
+    border-radius: 10px;
+
+    overflow: hidden;
+
+
+}
+
+.buttons{
+    height: 90px;
+    width: 400px;
+
+}
+button{
+
+    border-radius: 10px;
+    height: 100%;
+    width: 97px;
+    background-color: black;
+}
+
+.calculator{
+    background-color: azure;
+}
+
+
+.double{
+    width: 197px;
+}
+
